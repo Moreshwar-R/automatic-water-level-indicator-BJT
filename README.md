@@ -2,7 +2,8 @@
 
 ### Overview
 
-Manual monitoring of water tanks often leads to overflow and wastage. This project solves that with a fully analog, automatic system — microcontroller-free circuit.
+Overflow and water wastage remain common problems in households due to lack of automated monitoring.
+This project presents a fully analog solution — no microcontroller, no code — built entirely with discrete electronic components.
 
 - Detects water levels at **25%, 50%, 75%, and 100%** using copper wire probes
 - Automatically **starts the motor** when the tank is empty
