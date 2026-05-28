@@ -1,5 +1,4 @@
-# Automatic Water Level Indicator and Motor Control using BJT
-
+# ⚡ Automatic Water Level Indicator and Motor Control using BJT
 ### Overview
 
 Overflow and water wastage remain common problems in households due to lack of automated monitoring.
